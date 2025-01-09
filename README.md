@@ -22,11 +22,12 @@ Hospitals minimize the cost of clinical tests.
 
 **Project Output**
 
-![hrd1](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/fe8b9a56-3e33-4b96-b07c-339b532fdaa8)
 
-![hrd2](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/8c953588-4b53-4e2d-b277-7f9c074e34a7)
 ![hrd5](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/8a415a95-c3b5-42b2-a92b-08c48264a116)
-![hrd4](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/17a2b77a-1d0b-430f-ae3c-7ee1dd0c1504)
 ![hrd3](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/37483848-52ea-4bac-aaed-faf34b7ffb08)
 
 
+![hrd4](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/17a2b77a-1d0b-430f-ae3c-7ee1dd0c1504)
+![image](https://github.com/user-attachments/assets/aa159d3a-71f1-48eb-81b2-c68dfcf2ee57)
+
+![hrd2](https://github.com/Aarti111103/Heart-Disease-Prediction/assets/152190159/8c953588-4b53-4e2d-b277-7f9c074e34a7)
