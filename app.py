@@ -13,7 +13,7 @@ except FileNotFoundError:
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('prediction.php')
 
 @app.route('/predict', methods=['POST'])
 def predict():
