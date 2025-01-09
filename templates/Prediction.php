@@ -42,7 +42,6 @@
     <?php include "slidebar.php"; ?>
     <br><br>
 
-
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 
@@ -53,7 +52,7 @@
             <br>
             <br>
             <h1><legend>Enter the value of Heart Features</legend></h1>
-            <form method="post" action="/predict">
+            <form method="post" action="http://127.0.0.1:5000/predict">
                 <br>
                 <br>
                 <input type="text" name="age" placeholder="age" required>
@@ -80,10 +79,6 @@
             </form>
         </center>
        
-    </div>
-    {% if prediction %}
-        <center><h2>Prediction: {{ prediction }}</h2></center>
-    {% endif %}
-    
+    </div>    
 </body>
 </html>
