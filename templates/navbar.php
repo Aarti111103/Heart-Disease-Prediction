@@ -1,9 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-tertially">
     <div class="container-fluid">
-        <!-- Menu button image -->
-        <!-- Your site title -->
         <h1>Heart Disease Detection</h1>
-        <!-- Collapsible content -->
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             </ul>
